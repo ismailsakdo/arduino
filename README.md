@@ -1,5 +1,5 @@
 # arduino
-Project of Arduino with Kajidataonline. Please look into the folders and carefully look at it if you need the diagram and Fritzing file. Its avvailable for your interfacing ideas.
+Project of Arduino with Kajidataonline. Please look into the folders and carefully look at it if you need the diagram and Fritzing file. Its avvailable for your interfacing ideas. For information, the file with ".ino" is the C+ code for arduino, for ".fzz" is for the Fritzing file and others will be diagram/ coding diagram. Happy coding.. 
 
 Learn Free Tutorial in Our Youtube Channel: http://youtube.com/c/kajidataonline
 
