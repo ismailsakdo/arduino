@@ -1,5 +1,5 @@
 # arduino
-Project of Arduino with Kajidataonline
+Project of Arduino with Kajidataonline. Please look into the folders and carefully look at it if you need the diagram and Fritzing file. Its avvailable for your interfacing ideas.
 
 Learn Free Tutorial in Our Youtube Channel: http://youtube.com/c/kajidataonline
 
