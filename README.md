@@ -10,3 +10,4 @@ List of project available for learners:
 4) DS1302 Real Time Clock (List of Libraries include, namely as: RTC by makuna & ArduinoRTCLibrary. Link: https://github.com/ismailsakdo/arduino/tree/main/LCDwatch_DS1302_RTC
 5) WEMOS D1 R1 interface with the BMP180(temperature, altitude and pressure), connected wireless in ThingSpeak: https://github.com/ismailsakdo/arduino/tree/main/WEMOSD1_BMP180_ThingSpeak
 6) Arduino Uno Wireless Module ESP01 (ESP8266) attached with I2C sensor BMP180 (temperature, altitude and pressure), datalogged in ThingSpeak: https://github.com/ismailsakdo/arduino/tree/main/ESP01_BMP180_UNO_THINGSPEAK
+7) ESP32 Wireless module attached via I2C datalog the reading of BMP180 inside the Adafruit IO:https://github.com/ismailsakdo/arduino/tree/main/ESP32_Adafruit_BMP180
