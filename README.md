@@ -17,3 +17,5 @@ List of project available for learners:
 6) Arduino Uno Wireless Module ESP01 (ESP8266) attached with I2C sensor BMP180 (temperature, altitude and pressure), datalogged in ThingSpeak: Link: https://github.com/ismailsakdo/arduino/tree/main/ESP01_BMP180_UNO_THINGSPEAK; YoutubeVid: https://youtu.be/SlfjE6SSAlQ
 
 7) ESP32 Wireless module attached via I2C datalog the reading of BMP180 inside the Adafruit IO; Link: https://github.com/ismailsakdo/arduino/tree/main/ESP32_Adafruit_BMP180; YoutubeVid: https://youtu.be/DVpIqfP0Tw0
+
+8) MAX30100 Arduino Uno Pulse Oximeter; LCD and MAX30100: https://github.com/ismailsakdo/arduino/tree/main/LCD_MAX30100; LCD, MAX30100 and HC05 (Bluetooth): https://github.com/ismailsakdo/arduino/tree/main/LCD_MAX30100_HC05; LCD, MAX30100, SD Card, RTC1302: https://github.com/ismailsakdo/arduino/tree/main/LCD_RTC1302_MAX30100_SD
