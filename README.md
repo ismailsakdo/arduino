@@ -19,3 +19,5 @@ List of project available for learners:
 7) ESP32 Wireless module attached via I2C datalog the reading of BMP180 inside the Adafruit IO; Link: https://github.com/ismailsakdo/arduino/tree/main/ESP32_Adafruit_BMP180; YoutubeVid: https://youtu.be/DVpIqfP0Tw0
 
 8) MAX30100 Arduino Uno Pulse Oximeter; LCD and MAX30100: https://github.com/ismailsakdo/arduino/tree/main/LCD_MAX30100; LCD, MAX30100 and HC05 (Bluetooth): https://github.com/ismailsakdo/arduino/tree/main/LCD_MAX30100_HC05; LCD, MAX30100, SD Card, RTC1302: https://github.com/ismailsakdo/arduino/tree/main/LCD_RTC1302_MAX30100_SD
+
+9) How to make Watch using RTC module: Module DS1302: https://github.com/ismailsakdo/arduino/tree/main/LCDwatch_DS1302_RTC; Module 1307: https://github.com/ismailsakdo/arduino/tree/main/LCDwatch_DS1307_Nano
