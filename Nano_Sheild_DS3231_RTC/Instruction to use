@@ -1,0 +1,6 @@
+Please do follow the step suggested here:
+1) Download the file given in the Zip format
+2) Extract the file as folder for both (RTC by Makuna and DS3231)
+3) Copy and Paste inside the Arduino Library folder
+4) Restart your Arduino IDE
+5) Search for the sketch inside the example (RTC by Makuna and DS3231)
