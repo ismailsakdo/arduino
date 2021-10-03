@@ -2,6 +2,7 @@ Upload Generic Sketch from your Arduino IDE - Examle > Ethernet > DhcpAdressPrin
 Make sure UPLOAD without attached the Arduino Ethernet Sheild (maybe yours ok, but mine, I need to upload Without the Sheild)
 Attached the Ethernet Sheild and RESTART the arduino by pressing the RESTART
 Open Serial Monitor and write down your IP Address.
+Install the Adafruit Library for HTU21
 Open the Sketch (HTU21_Ethernet_Web), then change the IP Address with your IP Address
 Detach/ remove the sheild and UPLOAD the code (HTU21_Ethernet_Web) that already change their IP corresponding with your IP
 Now Attached your sensor with your sheild, The arrangement will be Sensor to Arduino:
