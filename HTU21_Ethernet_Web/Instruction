@@ -1,0 +1,13 @@
+Upload Generic Sketch from your Arduino IDE - Examle > Ethernet > DhcpAdressPrinter
+Make sure UPLOAD without attached the Arduino Ethernet Sheild (maybe yours ok, but mine, I need to upload Without the Sheild)
+Attached the Ethernet Sheild and RESTART the arduino by pressing the RESTART
+Open Serial Monitor and write down your IP Address.
+Open the Sketch (HTU21_Ethernet_Web), then change the IP Address with your IP Address
+Detach/ remove the sheild and UPLOAD the code (HTU21_Ethernet_Web) that already change their IP corresponding with your IP
+Now Attached your sensor with your sheild, The arrangement will be Sensor to Arduino:
++ attached with the 5V; - attached with the Ground Arduino; DA attached with the A4 of arduino; and CL attached with the A5 (standard I2C)
+Attached the Arduino Ethernet Sheild after the Code Successfully uploaded on your arduino (without  the Ethernet Sheild)
+Plug in your LAN cable, restart the Unit
+Open your browser and Enter the IP address that you obtained in the step 4
+The data is reasy to be use gathered from the site (sensor of arduino) and published in your Webserver via your dedicated IP
+Enjoy
