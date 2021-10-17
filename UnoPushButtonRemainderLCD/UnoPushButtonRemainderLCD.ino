@@ -21,7 +21,7 @@ void setup() {
   lcd.init();
   lcd.backlight();
   pinMode(2, INPUT);
-  pinMode(13, OUTPUT);
+  pinMode(5, OUTPUT);
 
 }
 
